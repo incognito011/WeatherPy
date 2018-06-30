@@ -2799,7 +2799,7 @@ plt.show()
 ```
 
 
-![png](output_14_0.png)
+![maxtemps](https://user-images.githubusercontent.com/37307811/42121252-5713064e-7bf9-11e8-8365-273c814c375f.png)
 
 
 # Latitude vs. Humidity Plot
@@ -2824,7 +2824,7 @@ plt.show()
 ```
 
 
-![png](output_16_0.png)
+![humidity](https://user-images.githubusercontent.com/37307811/42121254-5aee6a38-7bf9-11e8-897c-f5c8c8fa7fd7.png)
 
 
 # Latitude vs. Cloudiness Plot
@@ -2848,7 +2848,7 @@ plt.show()
 ```
 
 
-![png](output_18_0.png)
+![cloudiness](https://user-images.githubusercontent.com/37307811/42121256-5ca83fb6-7bf9-11e8-96d8-ece37b9dfd6f.png)
 
 
 # Latitude vs. Wind Speed Plot
@@ -2872,5 +2872,5 @@ plt.show()
 ```
 
 
-![png](output_20_0.png)
+![wind speed](https://user-images.githubusercontent.com/37307811/42121272-73868b0c-7bf9-11e8-8251-883cf304d419.png)
 
